@@ -1,13 +1,13 @@
-frontend-nanodegree-arcade-game
+#frontend-nanodegree-arcade-game
 ===============================
 
-(INSTRUCTIONS)
+##(INSTRUCTIONS)
 
-HOW TO RUN:-
+##HOW TO RUN:-
 
 Run the index.html file to start the game in a browser.
 
-HOW TO PLAY:-
+##HOW TO PLAY:-
 
 1.You will get a Player and there will be Enemy bugs.
 
